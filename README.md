@@ -6,7 +6,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 ## Day 1
 
 #### Planning
-- [ ] Complete the project planning document.
+- [x] Complete the project planning document.
 #### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
 - [x] Fork this repository to your Github account and pull it down to Gitpod
@@ -18,8 +18,8 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 
 
 ### HTML and CSS
-- [ ] Add any more HTML elements you will need to the page
-- [ ] Customize your HTML with CSS
+- [x] Add any more HTML elements you will need to the page
+- [x] Customize your HTML with CSS
 
 #### Wrap
 - [x] Push your changes!
@@ -35,13 +35,13 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 - [x] In your click handler, store the input value in a variable
 - [x] In your click handler, display user input to the screen
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Day 3
 
 ## JavaScript
-- [ ] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the computer choice  variable
-- [ ] Display the computer choice to the screen
+- [x] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the computer choice  variable
+- [x] Display the computer choice to the screen
 - [ ] Write a  statement that compares the userChoice to the computerChoice to determine the winner of the game
 - [ ] Display the winner to the screen in a div
 - [ ] Clear the input value once a result is displayed

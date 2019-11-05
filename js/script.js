@@ -15,24 +15,31 @@ $("button").click(function(){
     let userChoice = "";
     let computerChoice = "";
     let winner = "";
-    randomNumber = Math.random();
-
     let randomNumber = 0;
+
+    randomNumber = Math.random();
 
     console.log(computerChoice);
     if (randomNumber < 0.33) {
 
-        let computerChoice ="paper";
+        computerChoice ="paper";
 
-        alert ("")
+
     }
 
     else if ( randomNumber < 0.66) {
-        $("#scissor").html("");
+        computerChoice = "scissors"
+
     }
 
     else {
-        $("#rock").text("");
+        computerChoice = "rock"
+    }
+    console.log(computerChoice);
+    $("#computerChoice").text(computerChoice);
+
+    if (userChoice === computerChoice) {
+        $("#result").text("Do it again");
     }
 });
 
